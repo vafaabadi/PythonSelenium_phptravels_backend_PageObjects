@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite errors="0" failures="0" hostname="Vafa-PC" name="pytest" skipped="0" tests="1" time="137.233" timestamp="2020-08-24T19:34:35.700239"><testcase classname="tests.test_e2e.TestOne" file="tests\test_e2e.py" line="16" name="test_e2e" time="136.513"></testcase></testsuite></testsuites>
